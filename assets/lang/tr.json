@@ -1,0 +1,12 @@
+{
+    "select_pdf": "PDF Seç",
+    "extract_text": "Metni Çıkar",
+    "save_text": "Metni Kaydet",
+    "enter_pages": "Sayfa Aralığı (örn: 1-3):",
+    "language": "Dil Seçimi",
+    "title": "PDF'den Metin Çıkarıcı",
+    "theme": "Tema",
+    "light": "Açık",
+    "dark": "Koyu",
+    "use_ocr": "OCR Kullan (Görseller için)"
+}

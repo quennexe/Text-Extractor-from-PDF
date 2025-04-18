@@ -1,0 +1,12 @@
+{
+    "select_pdf": "Select PDF",
+    "extract_text": "Extract Text",
+    "save_text": "Save Text",
+    "enter_pages": "Page Range (e.g., 1-3):",
+    "language": "Language",
+    "title": "PDF Text Extractor",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "use_ocr": "Use OCR (for images)"
+}
